@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Nikita</h1>
-<h3 align="center">Fullstack , Backend and DataScience developer. I write in C++, Python, C</h3>
+<h3 align="center">Fullstack , Backend and DataScience developer. I write in C++, Python, C#, PHP, C</h3>
 
 - 📫 How to contact me **nikitakruglov.job@gmail.com**
 
